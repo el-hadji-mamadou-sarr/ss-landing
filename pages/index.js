@@ -18,10 +18,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Skiwap | Connect, Collaborate, and Grow Together</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Skiwap is your gateway to connecting and mastering skills with ease."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
