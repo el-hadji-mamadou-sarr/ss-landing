@@ -35,22 +35,25 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
-  },
-  {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
-  },
-  {
-    question: "What is your refund policy? ",
+    question: "Is Skiwap free to use?",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Yes, Skiwap is free to use for basic features such as creating a profile, browsing for collaborators, and engaging in communication with other users. However, we may offer premium features or services in the future that may require a subscription or payment.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "How can I ensure my privacy and security on Skiwap?",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Skiwap takes the privacy and security of our users seriously. We have implemented various measures to protect your personal information and ensure a safe and secure experience on our platform. You can control who can view your profile and contact you by adjusting your privacy settings. Additionally, we have a team dedicated to monitoring and addressing any suspicious or inappropriate behavior on Skiwap. If you encounter any issues or concerns, please don't hesitate to reach out to our support team for assistance.",
+  },
+  {
+    question: "Can I use Skiwap to showcase my portfolio?",
+    answer:
+      "Absolutely! Skiwap provides users with the ability to create personalized portfolios to showcase their skills, projects, and achievements. You can upload images, videos, links to your work, and descriptions to effectively showcase your talents to potential collaborators, mentors, and employers.",
+  },
+  {
+    question:
+      "How can I provide feedback or suggestions for improving Skiwap? ",
+    answer:
+      "We value feedback from our users and are always looking for ways to improve the Skiwap experience. You can provide feedback or suggestions by contacting our support team directly through the app or website. We appreciate your input and strive to incorporate user feedback into our ongoing development efforts.",
   },
 ];
 
